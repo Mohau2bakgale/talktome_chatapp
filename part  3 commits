@@ -1,0 +1,29 @@
+git commit -m "Part 3: Set up project structure and build configuration"
+
+
+
+git commit -m "Part 3: Implement message class and validation"
+
+
+
+git commit -m "Part 3: Add message ID and hash generation"
+
+
+
+git commit -m "Part 3: Implement JSON message storage"
+
+
+
+git commit -m "Part 3: Add stored message search functionality"
+
+
+
+git commit -m "Part 3: Implement message deletion and display"
+
+
+
+git commit -m "Part 3: Add automated tests and validation checks"
+
+
+
+git commit -m "Part 3: Add documentation and Windows launcher"
